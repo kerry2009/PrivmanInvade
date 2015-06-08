@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EnemyFloor
+  - EnemyFly
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: skyLayer
+    uniqueID: 1931056457
+    locked: 0
+  - name: cloudsBackLayer
+    uniqueID: 3307317653
+    locked: 0
+  - name: back_bgLayer
+    uniqueID: 2915972021
+    locked: 0
+  - name: mid_bgLayer
+    uniqueID: 1944324753
+    locked: 0
+  - name: cloudsFrontLayer
+    uniqueID: 375365103
+    locked: 0
+  - name: front_bgLayer
+    uniqueID: 2565087937
+    locked: 0
+  - name: floorBloodLayer
+    uniqueID: 2731602905
+    locked: 0
+  - name: enemyLayer
+    uniqueID: 1377554575
+    locked: 0
+  - name: geekLayer
+    uniqueID: 2713349505
+    locked: 0
+  - name: heroLayer
+    uniqueID: 3796868185
+    locked: 0
+  - name: bloodLayer
+    uniqueID: 4211428735
+    locked: 0
+  - name: hitEffectLayer
+    uniqueID: 2405237725
+    locked: 0
